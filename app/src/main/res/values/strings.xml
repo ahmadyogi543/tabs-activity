@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Belajar Tab &amp; Pager</string>
+    <string name="tab_one">TAB 1</string>
+    <string name="tab_two">TAB 2</string>
+    <string name="tab_three">TAB 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
